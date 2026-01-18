@@ -71,5 +71,3 @@ Made with ❤️ by [Your Name]
 1.  Create a new file in your project root folder named `README.md`.
 2.  Paste the content above into that file.
 3.  **Action Step:** To make it look even better, you should take a screenshot of your app, upload it to a folder in your repo (like `/assets/screenshots`), and replace the "via.placeholder" links with your actual image paths. 
-
-Would you like me to help you write a **GitHub Action** to automatically build an APK for this project whenever you push code?
