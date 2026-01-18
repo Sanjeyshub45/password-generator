@@ -27,6 +27,10 @@ A sleek, dark-themed Flutter application designed to generate secure, customizab
 
 ### Installation
 
+### Direct download link: (https://drive.google.com/file/d/1km_2C_k_uE3_FHh3vOb7uBh0TmPBRAnI/view?usp=sharing)
+
+###Or by below:
+
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/your-username/password-generator-flutter.git](https://github.com/your-username/password-generator-flutter.git)
